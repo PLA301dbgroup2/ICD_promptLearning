@@ -4,7 +4,7 @@ This paper utilizes the code from the project ClinicalPrompt and adapts it for a
 The original project directory can be found at https://github.com/NtaylorOX/Public_Clinical_Prompt.
 
 
-It mainly uses a pre-trained BERT model combined with the prompt method to predict 17 diagnosis and then form their corresponding diagnostic codes.
+It mainly uses a pre-trained BERT model combined with the prompt method to predict 13 diagnosis and then form their corresponding diagnostic codes.
 
 We also utilized another open-source prompt library, OpenPrompt, which can be found at https://github.com/thunlp/OpenPrompt.
 

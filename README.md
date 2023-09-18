@@ -13,7 +13,7 @@ We also utilized another open-source prompt library, OpenPrompt, which can be fo
 Data acquisition can be requested by contacting the email provided. Due to the sensitivity of the hospital data, it cannot be made publicly available.
 
 
-### 1.2 Data Processing Flow (Files and Data are in the Same Path)
+### 1.2 Data Processing Flow
 I. Raw data table,marked as formatted.csv, which includes discharge summary text and corresponding primary diagnosis label, is processed using pre_process.py to obtain final.csv. final.csv filters out data for 17 types of diseases, reducing the number of original data from 580,000 to a smaller number. Some unstandardized diagnosis names are manually merged.
 
 ```

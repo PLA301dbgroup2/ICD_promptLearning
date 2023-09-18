@@ -1,0 +1,1 @@
+{"placeholder": "text_a"} {"soft": "患者可能患了"} {"mask"}.

@@ -1,0 +1,4 @@
+{"placeholder": "text_a"} {"soft": "患者"} patient {"soft":"可以被诊断为"} {"mask"}.
+{"placeholder": "text_a"} {"soft": "患者"} patient {"soft":"可以被诊断为"} {"mask"}.
+{"placeholder": "text_a"} {"soft": "患者"} patient {"soft":"可以被诊断为"} {"mask"}.
+
